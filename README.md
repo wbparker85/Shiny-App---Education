@@ -1,5 +1,4 @@
-# DATA824_Final
-Final shiny project for DATA 824
+# Shiny App - Education
 
 Data Collected from Kaggle
 
